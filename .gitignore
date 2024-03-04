@@ -1,3 +1,7 @@
+# CMake outputs
+.cache
+.cmake
+
 # C/C++ build outputs
 .build/
 build/
