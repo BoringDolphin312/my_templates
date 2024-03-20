@@ -1,3 +1,7 @@
+# Platformio outputs
+.cache
+.pio
+
 # CMake outputs
 .cache
 .cmake
